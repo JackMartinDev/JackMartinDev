@@ -16,8 +16,8 @@
  kMMMMMMMMMMMMMMMMMMMMMMMMWd;    Hobbies: (WIP)
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
   .XMMMMMMMMMMMMMMMMMMMMMMMMK;   Contact:
-    .kMMMMMMMMMMMMMMMMMMMMMd     --------------------
-     .kMMMMMMMWXXWMMMMMMMk;      Email: jackmartin.dev@gmail.com
+    .kMMMMMMMMMMMMMMMMMMMMMd     --------------------                                                        
+     _.kMMMMMMMWXXWMMMMMMk;      Email: jackmartin.dev@gmail.com
        .cooc,.    .,coo:;        LinkedIn: jackmartindev
                                  Personal Website: jackmartin.jp
 ```
