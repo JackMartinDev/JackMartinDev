@@ -6,7 +6,7 @@
                  ,xNMM,          OS: macOS, android
                uOMMMMo           Host: (WIP)
                oMMM0,            Kernel: (WIP)
-     .oloddoi__loolloddoli.      Uptime: 25 years, 10 months, 29 days
+     .oloddoi__loolloddoli,      Uptime: 25 years, 10 months, 29 days
    .KMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
  XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: typescript, javascript, python, rust, html, css
