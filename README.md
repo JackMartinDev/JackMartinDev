@@ -1,29 +1,26 @@
 ## Hi there 👋
 
-<pre>
-<code>
+```rust
                                  jackmartin@Lanex
                     'c.          --------------------
-                 ,xNMM.          OS: macOS, android
+                 ,xNMM,          OS: macOS, android
                .OMMMMo           Host: (WIP)
                OMMM0,            Kernel: (WIP)
-     .;loddo:' loolloddol;.      Uptime: 25 years, 10 months, 29 days
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
+     .oloddo:' loolloddol;.      Uptime: 25 years, 10 months, 29 days
+   .KMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Languages.Programming: TypeScript, JavaScript, Python, Rust
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Computer: HTML, CSS, JSON, YAML, Markdown
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: English, Japanese
+ XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: TypeScript, JavaScript, Python, Rust, HTML, CSS
+.MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: English, Japanese
+.MMMMMMMMMMMMMMMMMMMMMMMM:       Favourite.Technologies: React, Tailwind, Next.js, Docker, Neovim, Tauri
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Hobbies: (WIP)
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd;    Hobbies: (WIP)
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Contact:
-    kMMMMMMMMMMMMMMMMMMMMMMd     --------------------
-     ;KMMMMMMMWXXWMMMMMMMk.      Email: jackmartin.dev@gmail.com
-       .cooc,.    .,coo:.        LinkedIn: jackmartindev
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK;   Contact:
+    .kMMMMMMMMMMMMMMMMMMMMMd     --------------------
+     .kMMMMMMMWXXWMMMMMMMk;      Email: jackmartin.dev@gmail.com
+       .cooc,.    .,coo:;        LinkedIn: jackmartindev
                                  Personal Website: jackmartin.jp
-</code>
-</pre>
-
+```
 
 
 <!--
