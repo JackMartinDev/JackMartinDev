@@ -11,7 +11,7 @@
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
  XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: TypeScript, JavaScript, Python, Rust, HTML, CSS
 .MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: English, Japanese
-.MMMMMMMMMMMMMMMMMMMMMMMM:       Favourite.Technologies: React, Tailwind, Next.js, Docker, Neovim, Tauri
+.MMMMMMMMMMMMMMMMMMMMMMMM:       Favourite.Technologies: React, Tailwind, Nextjs, Docker, Neovim, Tauri
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      
  kMMMMMMMMMMMMMMMMMMMMMMMMWd;    Hobbies: (WIP)
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
