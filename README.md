@@ -9,9 +9,9 @@
      .oloddo:' loolloddol;.      Uptime: 25 years, 10 months, 29 days
    .KMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
- XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: TypeScript, JavaScript, Python, Rust, HTML, CSS
-.MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: English, Japanese
-.MMMMMMMMMMMMMMMMMMMMMMMM:       Favourite.Technologies: React, Tailwind, Nextjs, Docker, Neovim, Tauri
+ XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: typescript, javascript, python, rust, html, css
+.MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: english, japanese
+.MMMMMMMMMMMMMMMMMMMMMMMM:       Favourite.Technologies: react, tailwind, nextjs, docker, neovim, tauri
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      
  kMMMMMMMMMMMMMMMMMMMMMMMMWd;    Hobbies: (WIP)
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
