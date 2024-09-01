@@ -9,16 +9,16 @@
      .;loddo:' loolloddol;.      Kernel: 23.6.0
    cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 25 years, 17 hours, 1 min
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    IDE: neovim
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Programming: TypeScript, JavaScript, Python
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Programming: TypeScript, JavaScript, Python, Rust
 :MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Computer: HTML, CSS, JSON, YAML, Markdown
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      Languages.Real: English, Japanese
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark)
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: iTerm2
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: MesloLGS-NF-Regular 14
-    kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Apple M2
-     ;KMMMMMMMWXXWMMMMMMMk.      GPU: Apple M2
-       .cooc,.    .,coo:.        Memory: 2301MiB / 16384MiB
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Contact:
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   --------------------
+    kMMMMMMMMMMMMMMMMMMMMMMd     Email: jackmartin.dev@gmail.com
+     ;KMMMMMMMWXXWMMMMMMMk.      LinkedIn: jackmartindev
+       .cooc,.    .,coo:.        website: jackmartin.jp
 </code>
 </pre>
 
