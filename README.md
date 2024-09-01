@@ -4,9 +4,9 @@
                                  jackmartin@Lanex
                     'c.          --------------------
                  ,xNMM,          OS: macOS, android
-               .OMMMMo           Host: (WIP)
-               OMMM0,            Kernel: (WIP)
-     .oloddo:' loolloddol;.      Uptime: 25 years, 10 months, 29 days
+               uOMMMMo           Host: (WIP)
+               oMMM0,            Kernel: (WIP)
+     .oloddoi__loolloddoli.      Uptime: 25 years, 10 months, 29 days
    .KMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
  XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: typescript, javascript, python, rust, html, css
