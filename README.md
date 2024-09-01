@@ -2,23 +2,25 @@
 
 <pre>
 <code>
-                    'c.          jackmartin@Jacks-Air
-                 ,xNMM.          --------------------
-               .OMMMMo           OS: macOS, android
-               OMMM0,            Host: Mac14,2
-     .;loddo:' loolloddol;.      Kernel: 23.6.0
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 25 years, 17 hours, 1 min
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    IDE: neovim
- XMMMMMMMMMMMMMMMMMMMMMMMX.      
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Programming: TypeScript, JavaScript, Python, Rust
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Computer: HTML, CSS, JSON, YAML, Markdown
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      Languages.Real: English, Japanese
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Contact:
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   --------------------
-    kMMMMMMMMMMMMMMMMMMMMMMd     Email: jackmartin.dev@gmail.com
-     ;KMMMMMMMWXXWMMMMMMMk.      LinkedIn: jackmartindev
-       .cooc,.    .,coo:.        website: jackmartin.jp
+                                 jackmartin@Lanex
+                    'c.          --------------------
+                 ,xNMM.          OS: macOS, android
+               .OMMMMo           Host: (WIP)
+               OMMM0,            Kernel: (WIP)
+     .;loddo:' loolloddol;.      Uptime: 25 years, 10 months, 29 days
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Languages.Programming: TypeScript, JavaScript, Python, Rust
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Computer: HTML, CSS, JSON, YAML, Markdown
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: English, Japanese
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Hobbies: (WIP)
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Contact:
+    kMMMMMMMMMMMMMMMMMMMMMMd     --------------------
+     ;KMMMMMMMWXXWMMMMMMMk.      Email: jackmartin.dev@gmail.com
+       .cooc,.    .,coo:.        LinkedIn: jackmartindev
+                                 Personal Website: jackmartin.jp
 </code>
 </pre>
 
