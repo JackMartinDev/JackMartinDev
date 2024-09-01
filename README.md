@@ -4,15 +4,15 @@
 <code>
                     'c.          jackmartin@Jacks-Air
                  ,xNMM.          --------------------
-               .OMMMMo           OS: macOS 14.6.1 23G93 arm64
+               .OMMMMo           OS: macOS, android
                OMMM0,            Host: Mac14,2
      .;loddo:' loolloddol;.      Kernel: 23.6.0
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 14 days, 17 hours, 1 min
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 58 (brew)
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 25 years, 17 hours, 1 min
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    IDE: neovim
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1470x956
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Programming: TypeScript, JavaScript, Python
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Computer: HTML, CSS, JSON, YAML, Markdown
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Languages.Real: English, Japanese
  kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark)
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: iTerm2
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: MesloLGS-NF-Regular 14
