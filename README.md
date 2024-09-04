@@ -4,8 +4,8 @@
                                  jackmartin@Lanex
                     "c.          --------------------
                  ,xNMM,          OS: macOS, android
-               uOMMMMo           Host: (WIP)
-               oMMM0,            Kernel: (WIP)
+               uOMMMMo           Host: Australia -> Japan
+               oMMM0,            Kernel: Optimized For The Web
      .oloddoi__loolloddoli,      Uptime: 25 years, 10 months, 29 days
    .KMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
