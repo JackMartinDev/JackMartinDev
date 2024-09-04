@@ -2,7 +2,7 @@
 
 ```rust
                                  jackmartin@Lanex
-                    'c.          --------------------
+                    "c.          --------------------
                  ,xNMM,          OS: macOS, android
                uOMMMMo           Host: (WIP)
                oMMM0,            Kernel: (WIP)
