@@ -3,7 +3,7 @@
 ```rust
                                  jackmartin@Lanex
                     "c.          --------------------
-                 ,xNMM,          OS: macOS, android
+                 ,xNMM,          OS: macOS, linux
                uOMMMMo           Host: australia -> japan
                oMMM0,            Kernel: web optimised, self hosted
      .oloddoi__loolloddoli,      Uptime: 25 years, 10 months, 29 days
