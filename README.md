@@ -6,7 +6,7 @@
                  ,xNMM,          OS: macOS, linux
                uOMMMMo           Host: australia -> japan
                oMMM0,            Kernel: web optimised, self hosted
-     .oloddoi__loolloddoli,      Uptime: 25 years, 10 months, 29 days
+     .oloddoi__loolloddoli,      Uptime: 26 years, 1 month, 2 days
    .KMMMMMMMMMMNWMMMMMMMMMM0:    IDE: neovim
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
  XMMMMMMMMMMMMMMMMMMMMMMMX:      Languages.Programming: typescript, javascript, python, go, html, css
