@@ -13,7 +13,7 @@
 .MMMMMMMMMMMMMMMMMMMMMMMM:       Languages.Real: english, japanese
 .MMMMMMMMMMMMMMMMMMMMMMMM:       Favourite.Technologies: react, tailwind, nextjs, docker, neovim, tauri
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      
- kMMMMMMMMMMMMMMMMMMMMMMMMWd;    Hobbies: japanese, gaming, home server
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd;    Hobbies: japanese, game dev, home server
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
   .XMMMMMMMMMMMMMMMMMMMMMMMMK;   Contact:
     .kMMMMMMMMMMMMMMMMMMMMMd     --------------------                                                        
